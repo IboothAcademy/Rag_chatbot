@@ -4,5 +4,5 @@
 AI agent 구현(원본 10분)
 
 유튜브 영상 
-https://youtu.be/QZUQCAI176k?si=Q576cs_kTzue-d83
+https://youtu.be/i-txsBoTJtI?si=E_CFkCCtXp935eRa
 
